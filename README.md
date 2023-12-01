@@ -1,5 +1,5 @@
 # 360_Final_project
-CSE360_Effortlogger_Prototype
+CSE360_Effortlogger_Final
 
 Team Member 1: Samanvith Reddy Charlapally
 
